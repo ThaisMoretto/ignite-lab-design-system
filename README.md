@@ -1,2 +1,2 @@
 # ignite-lab-design-system
-Projeto de um Design System com React.JS e Storybook
+Projeto desenvolvido durante o Ignite Lab 03
