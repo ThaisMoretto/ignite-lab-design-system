@@ -16,9 +16,9 @@ module.exports = {
   "features": {
     "storyStoreV7": true
   },
-  vitFinal: (config, { configType }) => {
+  viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = 'ThaisMoretto/ignite-lab-design-system'
+      config.base = '/ignite-lab-design-system/'
     }
 
     return config
